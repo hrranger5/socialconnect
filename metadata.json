@@ -1,0 +1,5 @@
+{
+  "name": "SocialConnect",
+  "description": "A mini social media application featuring user profiles, posts, comments, and a like/follow system. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
